@@ -14,16 +14,11 @@ TempSweep is intentionally conservative. It skips tiny files by default, avoids 
 
 ## Features
 
-- Native SwiftUI macOS app
-- Safe User Temps, Aggressive, and Whole Scan modes
-- Size-first sorting for finding files that actually matter
-- Progress bar during scans
-- Reviewable grouped results with checkboxes
-- Expand large groups in chunks to avoid overwhelming the UI
-- Selectable and copyable file/folder paths
-- Scan warnings with a shortcut to Full Disk Access settings
-- Trash or permanent-delete confirmation for selected files
-- Reproducible app icon generation
+- Finds bigger temp, cache, and log files
+- Sorts results by size
+- Lets you review paths and choose what to delete
+- Moves files to Trash or permanently deletes with confirmation
+- Shows scan progress and permission warnings
 
 ## Safety Model
 
