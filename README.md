@@ -4,6 +4,14 @@ TempSweep is a lightweight macOS cleaner for finding bigger temporary, cache, an
 
 TempSweep is intentionally conservative. It skips tiny files by default, avoids system-critical directories, limits huge result rendering for stability, and requires explicit confirmation before cleaning.
 
+## Screenshots
+
+![TempSweep results view](docs/screenshots/results.png)
+
+![TempSweep scanning progress](docs/screenshots/scanning-progress.png)
+
+![TempSweep clean confirmation](docs/screenshots/clean-confirmation.png)
+
 ## Features
 
 - Native SwiftUI macOS app
