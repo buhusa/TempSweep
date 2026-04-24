@@ -1,0 +1,6 @@
+.build/
+.codex/
+dist/
+Sources/TempSweepApp/Resources/AppIcon.iconset/
+.DS_Store
+.superpowers/
