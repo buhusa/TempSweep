@@ -6,9 +6,9 @@ TempSweep is intentionally conservative. It skips tiny files by default, avoids 
 
 ## Screenshots
 
-![TempSweep results view](docs/screenshots/results.png)
-
 ![TempSweep scanning progress](docs/screenshots/scanning-progress.png)
+
+![TempSweep results view](docs/screenshots/results.png)
 
 ![TempSweep clean confirmation](docs/screenshots/clean-confirmation.png)
 
